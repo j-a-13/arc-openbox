@@ -1,5 +1,7 @@
 # Arc Openbox theme
 
+Forked from [dglava/arc-openbox](https://github.com/dglava/arc-openbox)
+
 Openbox theme created to fit in nicely with the Arc GTK theme.
 Contributions are more than welcome, since it's far from perfect.
 
